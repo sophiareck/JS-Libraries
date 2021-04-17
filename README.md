@@ -1,2 +1,2 @@
-# flexbox-revision
-change issue site to use flexbox
+# JS Library
+added lightbox to the graphs on my issue site
